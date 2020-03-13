@@ -1,0 +1,11 @@
+class hellojava
+{
+public statis void main(String[] args)
+{
+int a, b,c;
+a=500;
+b=23;
+c=123;
+c=a+b+c;
+}
+}
